@@ -1,0 +1,22 @@
+{
+  "name": "frontpress",
+  "version": "1.0.0",
+  "description": "a front press project",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "front",
+    "press",
+    "vue",
+    "javascript"
+  ],
+  "author": "leo",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^2.0.0-beta.45",
+    "vuepress": "^2.0.0-beta.45"
+  }
+}
