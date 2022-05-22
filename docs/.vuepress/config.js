@@ -9,6 +9,7 @@ module.exports = {
   head: head,
   theme: defaultTheme({
     logo: 'images/logo.png',
+    repo: 'leouncle/frontpress',
     navbar: [
       {
         text: '前端简史',
