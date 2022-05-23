@@ -4,10 +4,10 @@ title: Home
 heroImage: /images/logo.png
 actions:
   - text: 开始
-    link: /guide/getting-started.html
+    link: /frontHistory/
     type: primary
   - text: 前端简史
-    link: /frontHistory/introduction.html
+    link: /frontHistory/
     type: secondary
 # features:
 #   - title: Simplicity First
