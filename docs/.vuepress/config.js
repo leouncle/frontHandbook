@@ -1,4 +1,5 @@
 const { defaultTheme } = require('@vuepress/theme-default')
+const { searchPlugin } = require('@vuepress/plugin-search')
 const { head, navbar, sidebar } = require('./configs/index.js')
 
 module.exports = {
@@ -17,5 +18,18 @@ module.exports = {
     navbar,
     sidebar,
     sidebarDepth: 2
-  })
+  }),
+  plugins: [
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: '搜索文档'
+        },
+        '/zh/': {
+          placeholder: '搜索文档'
+        }
+      },
+      maxSuggestions: 10
+    })
+  ]
 }
