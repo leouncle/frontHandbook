@@ -7,7 +7,7 @@ actions:
     link: /guide/getting-started.html
     type: primary
   - text: 前端简史
-    link: /frontHistory/
+    link: /frontHistory/introduction.html
     type: secondary
 # features:
 #   - title: Simplicity First
