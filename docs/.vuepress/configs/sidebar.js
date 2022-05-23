@@ -2,7 +2,16 @@ module.exports = {
   '/frontHistory/': [
     {
       text: '前端简史',
-      children: ['/frontHistory/front.md']
+      children: [
+        '/frontHistory/Introduction.md',
+        '/frontHistory/floodEra.md',
+        '/frontHistory/browserWar.md',
+        '/frontHistory/prototype.md',
+        '/frontHistory/jQuery.md',
+        '/frontHistory/nodejs+jquery.md',
+        '/frontHistory/vue&react&angular.md',
+        '/frontHistory/jsEcology.md'
+      ]
     }
   ],
   '/browserHistory/': [
