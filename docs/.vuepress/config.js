@@ -6,12 +6,15 @@ module.exports = {
   description: "leounce's front press",
   lang: 'zh-CN',
   base: '/',
-  head: head,
+  head,
   theme: defaultTheme({
     logo: 'images/logo.png',
     repo: 'leouncle/frontpress',
-    navbar: navbar,
-    sidebar: sidebar,
+    editLink: false,
+    lastUpdatedText: '最近一次更新',
+    contributorsText: '贡献者',
+    navbar,
+    sidebar,
     sidebarDepth: 2
   })
 }
