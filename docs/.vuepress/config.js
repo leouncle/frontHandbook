@@ -13,6 +13,7 @@ module.exports = {
     editLink: false,
     lastUpdatedText: '最近一次更新',
     contributorsText: '贡献者',
+    tip: '提示',
     navbar,
     sidebar,
     sidebarDepth: 2
