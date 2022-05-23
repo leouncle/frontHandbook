@@ -6,11 +6,11 @@ module.exports = {
   title: '前端项目手册',
   description: "leounce's front handbook",
   lang: 'zh-CN',
-  base: '/frontpress/',
+  base: '/frontHandbook/',
   head,
   theme: defaultTheme({
     logo: 'images/logo.png',
-    repo: 'leouncle/frontpress',
+    repo: 'leouncle/frontHandbook',
     editLink: false,
     lastUpdatedText: '最近一次更新',
     contributorsText: '贡献者',
