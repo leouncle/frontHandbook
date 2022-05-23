@@ -5,7 +5,7 @@ module.exports = [
       rel: 'icon',
       type: 'image/png',
       sizes: '16x16',
-      href: `/images/icons/favicon-16x16.png`
+      href: `/frontpress/images/icons/favicon-16x16.png`
     }
   ],
   [
@@ -14,22 +14,25 @@ module.exports = [
       rel: 'icon',
       type: 'image/png',
       sizes: '32x32',
-      href: `/images/icons/favicon-32x32.png`
+      href: `/frontpress/images/icons/favicon-32x32.png`
     }
   ],
-  ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+  ['link', { rel: 'manifest', href: '/frontpress/manifest.webmanifest' }],
   ['meta', { name: 'application-name', content: 'frontHandbook' }],
   ['meta', { name: 'apple-mobile-web-app-title', content: 'frontHandbook' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   [
     'link',
-    { rel: 'apple-touch-icon', href: `/images/icons/apple-touch-icon.png` }
+    {
+      rel: 'apple-touch-icon',
+      href: `/frontpress/images/icons/apple-touch-icon.png`
+    }
   ],
   [
     'link',
     {
       rel: 'mask-icon',
-      href: '/images/icons/safari-pinned-tab.svg',
+      href: '/frontpress/images/icons/safari-pinned-tab.svg',
       color: '#3eaf7c'
     }
   ],
