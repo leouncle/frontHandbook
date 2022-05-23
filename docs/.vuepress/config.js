@@ -3,7 +3,7 @@ const { head, navbar, sidebar } = require('./configs/index.js')
 
 module.exports = {
   title: '前端项目手册',
-  description: "leounce's front press",
+  description: "leounce's front handbook",
   lang: 'zh-CN',
   base: '/frontpress/',
   head,

@@ -18,8 +18,8 @@ module.exports = [
     }
   ],
   ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-  ['meta', { name: 'application-name', content: 'FrontPress' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: 'FrontPress' }],
+  ['meta', { name: 'application-name', content: 'frontHandbook' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: 'frontHandbook' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   [
     'link',
