@@ -5,7 +5,7 @@ module.exports = {
   title: '前端项目手册',
   description: "leounce's front press",
   lang: 'zh-CN',
-  base: '/',
+  base: '/frontpress/',
   head,
   theme: defaultTheme({
     logo: 'images/logo.png',
