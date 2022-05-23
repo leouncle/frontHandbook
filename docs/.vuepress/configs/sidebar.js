@@ -10,7 +10,8 @@ module.exports = {
         '/frontHistory/jQuery.md',
         '/frontHistory/nodejs+jquery.md',
         '/frontHistory/vue&react&angular.md',
-        '/frontHistory/jsEcology.md'
+        '/frontHistory/jsEcology.md',
+        '/frontHistory/vuejs.md'
       ]
     }
   ],

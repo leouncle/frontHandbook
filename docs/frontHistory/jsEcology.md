@@ -28,8 +28,3 @@ web框架
 
 - Electron
 - NW
-
-## 纪录片vue的诞生
-
-<!-- <video src="/Vue.js_The Documentary.mp4" controls preload="none"  width="100%" height="500">
-</video> -->
