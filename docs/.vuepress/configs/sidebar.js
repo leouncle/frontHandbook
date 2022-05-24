@@ -1,4 +1,15 @@
 module.exports = {
+  '/projectIntro/': [
+    {
+      text: '项目介绍',
+      children: [
+        '/projectIntro/README.md',
+        '/projectIntro/addNewpage.md',
+        '/projectIntro/style.md',
+        '/projectIntro/components.md'
+      ]
+    }
+  ],
   '/frontHistory/': [
     {
       text: '前端简史',
