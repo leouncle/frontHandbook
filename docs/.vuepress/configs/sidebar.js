@@ -4,9 +4,10 @@ module.exports = {
       text: '项目介绍',
       children: [
         '/projectIntro/README.md',
-        '/projectIntro/addNewpage.md',
+        '/projectIntro/mockApi.md',
         '/projectIntro/style.md',
-        '/projectIntro/components.md'
+        '/projectIntro/components.md',
+        '/projectIntro/compositionApi.md'
       ]
     }
   ],
