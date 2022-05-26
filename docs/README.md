@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/logo.png
 actions:
   - text: 开始
-    link: /frontHistory/
+    link: /projectIntro/
     type: primary
   - text: 前端简史
     link: /frontHistory/
