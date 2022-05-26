@@ -1,7 +1,7 @@
 {
   "name": "frontHandbook",
   "short_name": "frontHandbook",
-  "description": "leounce's front handbook",
+  "description": "leouncle's front handbook",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",
