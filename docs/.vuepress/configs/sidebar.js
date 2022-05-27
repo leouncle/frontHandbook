@@ -6,8 +6,15 @@ module.exports = {
         '/projectIntro/README.md',
         '/projectIntro/mockApi.md',
         '/projectIntro/style.md',
-        '/projectIntro/components.md',
         '/projectIntro/compositionApi.md'
+      ]
+    },
+    {
+      text: '组件',
+      children: [
+        '/projectIntro/components/countTo.md',
+        '/projectIntro/components/dragable.md',
+        '/projectIntro/components/echarts.md'
       ]
     }
   ],
