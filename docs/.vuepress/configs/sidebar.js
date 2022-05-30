@@ -14,7 +14,8 @@ module.exports = {
       children: [
         '/projectIntro/components/countTo.md',
         '/projectIntro/components/dragable.md',
-        '/projectIntro/components/echarts.md'
+        '/projectIntro/components/echarts.md',
+        '/projectIntro/components/formTable.md'
       ]
     }
   ],
