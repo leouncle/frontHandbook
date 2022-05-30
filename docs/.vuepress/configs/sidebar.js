@@ -10,12 +10,13 @@ module.exports = {
       ]
     },
     {
-      text: '组件',
+      text: '组件&插件',
       children: [
         '/projectIntro/components/countTo.md',
         '/projectIntro/components/dragable.md',
         '/projectIntro/components/echarts.md',
-        '/projectIntro/components/formTable.md'
+        '/projectIntro/components/formTable.md',
+        '/projectIntro/components/filter&directive.md'
       ]
     }
   ],
