@@ -1,0 +1,1 @@
+const t={key:"v-dd138210",path:"/frontHistory/floodEra.html",title:"\u6D2A\u8352\u65F6\u4EE3\uFF081990 - 1994\u5E74\uFF09",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653282914e3,contributors:[{name:"leouncle",email:"1003217877@qq.com",commits:1}]},filePathRelative:"frontHistory/floodEra.md"};export{t as data};

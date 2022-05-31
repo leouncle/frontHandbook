@@ -1,0 +1,21 @@
+{
+  "name": "frontHandbook",
+  "short_name": "frontHandbook",
+  "description": "leouncle's front handbook",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "red",
+  "icons": [
+    {
+      "src": "/frontHandbook/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/frontHandbook/images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
