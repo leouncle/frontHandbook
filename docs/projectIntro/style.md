@@ -115,8 +115,8 @@ vue-element-admin 所有全局样式都在 `@/styles` 下设置
 
 ```scss
 <style scoped lang="scss">
-  @import "src/styles/variables.scss";
-  @import "src/styles/mixin.scss";
+@import '~@/styles/mixin.scss';
+@import '~@/styles/variables.scss';
 </style>
 ```
 
