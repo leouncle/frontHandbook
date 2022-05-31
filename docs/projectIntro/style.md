@@ -92,14 +92,20 @@ vue-element-admin 所有全局样式都在 `@/styles` 下设置
 }
 ```
 
-如果你使用了一些预处理的东西，如 `sass` 你可以通过 `/deep/` 来代替 `>>>` 实现想要的效果。
+如果你使用了一些预处理的东西，如 `scss` 你可以通过 `/deep/`或`::v-deep` 来代替 `>>>` 实现想要的效果。
 
 所以你想覆盖某个特定页面 `element` 的 button 的样式，你可以这样做：
 
 ```css
-.xxx-container >>> .el-button{
-  xxxx
-}
+<style scoped lang="scss">
+.a::v-deep .b { /* ... */ }
+</style>
+```
+
+```css
+<style scoped lang="scss">
+.a /deep/ .b { /* ... */ }
+</style>
 ```
 
 [官方文档](https://vue-loader.vuejs.org/en/features/scoped-css.html)
