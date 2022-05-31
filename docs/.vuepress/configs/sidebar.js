@@ -16,6 +16,7 @@ module.exports = {
         '/projectIntro/components/dragable.md',
         '/projectIntro/components/echarts.md',
         '/projectIntro/components/formTable.md',
+        '/projectIntro/components/svgIcon.md',
         '/projectIntro/components/filter&directive.md'
       ]
     }
