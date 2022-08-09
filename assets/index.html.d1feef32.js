@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5fbf9d6c","path":"/browserHistory/","title":"Web \u8BDE\u751F\uFF081990-1991\uFF09","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1653311476000,"contributors":[{"name":"leouncle","email":"1003217877@qq.com","commits":3}]},"filePathRelative":"browserHistory/README.md"}');export{e as data};
