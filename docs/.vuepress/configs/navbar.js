@@ -4,6 +4,10 @@ module.exports = [
     link: '/projectIntro/'
   },
   {
+    text: '开发文档',
+    link: '/devDoc/'
+  },
+  {
     text: '前端简史',
     link: '/frontHistory/'
   },
