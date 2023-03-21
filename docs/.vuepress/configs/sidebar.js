@@ -59,4 +59,20 @@ module.exports = {
       ],
     },
   ],
+  '/interview/': [
+    {
+      text: '面试题',
+      children: [
+        '/interview/README.md',
+        '/interview/html.md',
+        '/interview/css.md',
+        '/interview/js.md',
+        '/interview/vue2.md',
+        '/interview/vue3.md',
+        '/interview/react.md',
+        '/interview/http.md',
+        '/interview/engineering.md',
+      ],
+    },
+  ],
 };

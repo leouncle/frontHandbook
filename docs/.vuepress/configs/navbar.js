@@ -1,18 +1,22 @@
 module.exports = [
   {
     text: '项目介绍',
-    link: '/projectIntro/'
+    link: '/projectIntro/',
   },
   {
     text: '开发文档',
-    link: '/devDoc/'
+    link: '/devDoc/',
   },
   {
     text: '前端简史',
-    link: '/frontHistory/'
+    link: '/frontHistory/',
   },
   {
     text: '浏览器发展史',
-    link: '/browserHistory/'
-  }
-]
+    link: '/browserHistory/',
+  },
+  {
+    text: '面试题',
+    link: '/interview/',
+  },
+];
