@@ -1,0 +1,1 @@
+const t={key:"v-049bdd87",path:"/frontHistory/jsEcology.html",title:"\u57FA\u4E8Ejs\u7684\u751F\u6001\u65F6\u4EE3",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653284358e3,contributors:[{name:"leouncle",email:"1003217877@qq.com",commits:2}]},filePathRelative:"frontHistory/jsEcology.md"};export{t as data};

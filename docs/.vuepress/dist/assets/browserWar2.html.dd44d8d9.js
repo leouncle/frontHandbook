@@ -1,0 +1,1 @@
+const e={key:"v-3238ebd1",path:"/browserHistory/browserWar2.html",title:"\u6D4F\u89C8\u5668\u4E8C\u6218\uFF081998 - 2007\uFF09",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653282914e3,contributors:[{name:"leouncle",email:"1003217877@qq.com",commits:2}]},filePathRelative:"browserHistory/browserWar2.md"};export{e as data};
